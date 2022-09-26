@@ -1,0 +1,7 @@
+paso 1: he creado mi repositorio en la red de github
+paso 2: he clonado mi repositorio desde la aplicacion de github desktop para tenerlo de manera local (git clone)
+paso 3: he creado los archivos desde la carpeta de mi escritorio 
+paso 4: me ha salido en mi repositorio de github que había cambios por hacer, por lo que he seleccionado los archivos que queria añadir (git add)
+paso 5: he añadido una descripción y he seleccionado (commit to main)
+paso 6: cuando todo ha estado bien, he subido mis cambios a la red seleccionando ´´push origin´´(git push)
+
